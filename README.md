@@ -1,2 +1,2 @@
-# Demo of using midi-time library for sonification of time-series data
-Used Data - Istanbul Stock Exchange (UCI)
+# Sonification of time-series data
+Dataset used - Istanbul Stock Exchange (UCI)
